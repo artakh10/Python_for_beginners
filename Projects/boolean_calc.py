@@ -1,5 +1,5 @@
 '''
-Soecifically for python beginners
+Specifically for python beginners
 Author: Arta Khosravi
 Last edit: Jan. 2025
 '''
