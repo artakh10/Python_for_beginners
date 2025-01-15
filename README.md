@@ -1,2 +1,2 @@
-# Python_for_beginners
-The required codes for understanding and learning Python with basic coding understandings, starting from basic teaching points and eventually leading to more advanced yet simple projects.
+# Python for Beginners
+The required codes for acquiring knowledge and experience in Python, beginning with essential coding concepts and progressing toward more advanced but still straightforward and simple projects.
